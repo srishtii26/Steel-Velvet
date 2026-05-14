@@ -130,9 +130,7 @@ Its modern UI/UX and responsive design help position Steel & Velvet as a premium
 <img width="960" height="540" alt="Screenshot 2026-05-14 144341" src="https://github.com/user-attachments/assets/84bd5069-92d2-447d-b13f-0e3bb7af8f74" />
 <img width="960" height="540" alt="Screenshot 2026-05-14 144349" src="https://github.com/user-attachments/assets/ac686856-5c21-498b-8f2f-d7374d481316" />
 <img width="960" height="540" alt="Screenshot 2026-05-14 144432" src="https://github.com/user-attachments/assets/cf59f506-46c5-4c71-b7fa-0d6c684bbf7f" />
-
-
-
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/b442c1f4-740b-4217-88b0-1b659a99b973" />
 
 # 📌 Future Improvements
 
